@@ -1,3 +1,6 @@
+settings:
+  default_locale: "ja"
+
 i18n:
   ja:
     title: "タイトル："
